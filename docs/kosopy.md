@@ -1,4 +1,0 @@
- 
-# kosopy module
-
-::: kosopy.kosopy
