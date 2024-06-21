@@ -17,5 +17,5 @@ If you don't have [pip](https://pip.pypa.io) installed, this [Python installatio
 To install kosopy from sources, run this command in your terminal:
 
 ```
-pip install git+https://github.com/bibhuraushan/kosopy
+pip install git+https://github.com/Kodaikanal-Solar-Observatory/kosopy
 ```

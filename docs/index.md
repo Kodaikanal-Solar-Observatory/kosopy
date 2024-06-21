@@ -8,7 +8,7 @@
 
 
 -   Free software: MIT License
--   Documentation: <https://bibhuraushan.github.io/kosopy>
+-   Documentation: <https://github.com/Kodaikanal-Solar-Observatory/kosopy>
     
 
 ## Features
