@@ -1,8 +1,8 @@
 # kosopy
 
+*WIP*
 
-[![image](https://img.shields.io/pypi/v/kosopy.svg)](https://pypi.python.org/pypi/kosopy)
-[![image](https://img.shields.io/conda/vn/conda-forge/kosopy.svg)](https://anaconda.org/conda-forge/kosopy)
+Updated Soon!!
 
 
 **A python pacakge to handle KoSO data.**
