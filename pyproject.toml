@@ -75,7 +75,7 @@ max-line-length = 88
 
 
 [project.urls]
-Homepage = "https://github.com/bibhuraushan/kosopy"
+Homepage = "https://github.com/Kodaikanal-Solar-Observatory/kosopy"
 
 [build-system]
 requires = ["setuptools>=64", "setuptools_scm>=8"]

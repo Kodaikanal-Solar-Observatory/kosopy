@@ -1,8 +1,8 @@
 site_name: kosopy
 site_description: A python pacakge to handle KoSO data.
 site_author: bibhuraushan
-site_url: https://bibhuraushan.github.io/kosopy
-repo_url: https://github.com/bibhuraushan/kosopy
+site_url: https://github.com/Kodaikanal-Solar-Observatory/kosopy
+repo_url: https://github.com/Kodaikanal-Solar-Observatory/kosopy
 
 copyright: "Copyright &copy; 2024 - 2024 Bibhuti Kumar Jha"
 
@@ -78,7 +78,7 @@ nav:
     - Contributing: contributing.md
     - FAQ: faq.md
     - Changelog: changelog.md
-    - Report Issues: https://github.com/bibhuraushan/kosopy/issues
+    - Report Issues: https://github.com/Kodaikanal-Solar-Observatory/kosopy/issues
     - Examples:
         - examples/intro.ipynb
     - API Reference:
